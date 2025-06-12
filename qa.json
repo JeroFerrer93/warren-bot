@@ -1,0 +1,34 @@
+[
+  {
+    "keywords": ["stock", "stocks", "share"],
+    "answer": "📈 A stock represents ownership in a company. Shareholders benefit from its success through price appreciation and dividends."
+  },
+  {
+    "keywords": ["bond", "bonds"],
+    "answer": "💵 A bond is a fixed-income investment where you lend money to an entity (government or corporate) and receive regular interest payments."
+  },
+  {
+    "keywords": ["cedear", "ceadars"],
+    "answer": "🌎 CEDEARs allow you to invest in foreign companies through the Argentine stock market, using pesos."
+  },
+  {
+    "keywords": ["compound interest"],
+    "answer": "🔁 Compound interest means earning interest on both your original money and the interest it already earned. It grows faster over time."
+  },
+  {
+    "keywords": ["dividend", "dividends"],
+    "answer": "💰 Dividends are a share of a company’s profits paid to shareholders, usually on a regular basis."
+  },
+  {
+    "keywords": ["inflation"],
+    "answer": "📉 Inflation is the rate at which prices rise and purchasing power falls over time. Investing helps protect your money from inflation."
+  },
+  {
+    "keywords": ["etf", "etfs"],
+    "answer": "📊 An ETF (Exchange-Traded Fund) is a basket of assets like stocks or bonds that you can buy or sell on a stock exchange like a regular share."
+  },
+  {
+    "keywords": ["fci", "mutual fund"],
+    "answer": "💼 FCI stands for 'Fondo Común de Inversión' (mutual fund). It pools money from many investors to invest in various assets."
+  }
+]

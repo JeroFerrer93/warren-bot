@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Warren-Bot</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="chat-container">
+    <div class="bot-header">
+      <img src="https://i.imgur.com/FnEjwzK.png" alt="Warren" />
+      <h1>Warren-Bot</h1>
+      <p>Your virtual finance advisor</p>
+    </div>
+
+    <div class="chat-box" id="chat-box">
+      <div class="bot-msg">💬 Hello! I'm Warren-Bot. Ask me something about investing.</div>
+    </div>
+
+    <div class="suggestions">
+      <button onclick="suggestQuestion('What is a stock?')">📈 Stocks</button>
+      <button onclick="suggestQuestion('What is a bond?')">💵 Bonds</button>
+      <button onclick="suggestQuestion('What is compound interest?')">🔁 Compound</button>
+      <button onclick="suggestQuestion('What is an ETF?')">📊 ETF</button>
+      <button onclick="suggestQuestion('What is inflation?')">📉 Inflation</button>
+    </div>
+
+    <div class="checkup">
+    <button onclick="startCheckup()">🧠 Financial Checkup</button>
+    </div>
+
+    <div class="input-area">
+      <input type="text" id="user-input" placeholder="Type your question here..." />
+      <button onclick="getResponse()">Send</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
