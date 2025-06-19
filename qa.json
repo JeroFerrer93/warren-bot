@@ -28,7 +28,29 @@
     "answer": "📊 An ETF (Exchange-Traded Fund) is a basket of assets like stocks or bonds that you can buy or sell on a stock exchange like a regular share."
   },
   {
+    "keywords": ["etf", "etfs"],
+    "answer": "📊 An ETF (Exchange-Traded Fund) is a basket of assets..."
+  },
+  {
+    "keywords": ["fci", "mutual fund"],
+    "answer": "💼 FCI stands for 'Fondo Común de Inversión'..."
+  },
+
+  {
     "keywords": ["fci", "mutual fund"],
     "answer": "💼 FCI stands for 'Fondo Común de Inversión' (mutual fund). It pools money from many investors to invest in various assets."
+  },
+
+  {
+    "keywords": ["plazo fijo", "fixed term", "fixed-term deposit", "fixed deposit"],
+    "answer": "🏦 A fixed-term deposit is when you deposit your money in a bank for a period of time and in exchange you recive interest for the time you left the money."
+  },
+  {
+    "keywords": ["cer", "uva", "inflation adjusted"],
+    "answer": "📈 CER bonds and UVA term deposits are investments that follows the inflation of the country. So it is a good option in countries with high inflation like Argentina."
+  },
+  {
+    "keywords": ["dólar mep", "dollar mep", "stock market dollar", "mep"],
+    "answer": "💵 The MEP dollar is when you buy the AL30 bond in PESOS and sell it as AL30D in DOLLARS"
   }
 ]
